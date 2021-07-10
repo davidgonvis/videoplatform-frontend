@@ -1,3 +1,18 @@
 @tailwind base;
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("./assets/fonts/CircularStd-Book.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("./assets/fonts/SFProDisplay-Regular.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
 @tailwind components;
 @tailwind utilities;
